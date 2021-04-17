@@ -29,12 +29,12 @@ If no device is shown in the device list, you can click "Add Device", select "Sc
 </p>
 
 <p align="center"  >
-<img width=200 src="https://images.tuyacn.com/rms-static/8f9e9d70-c805-11ea-a9da-3362f25bc183-1594973679815.png?tyName=kt.png" >
+<img width=200 src="https://github.com/zntx/tuya_weixin/blob/main/show1.png" >
 <p align="center">air conditioner</p>
 </p>
 
 <p align="center"  >
-<img width=200 src="https://images.tuyacn.com/rms-static/8f9a0990-c805-11ea-a0c6-dbbe4bc4c496-1594973679785.png?tyName=cl.png" >
+<img width=200 src="https://github.com/zntx/tuya_weixin/blob/main/show1.png" >
 <p align="center">The curtain motor</p>
 </p>
 
